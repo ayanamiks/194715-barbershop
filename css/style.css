@@ -1,0 +1,22 @@
+body {
+	font-size: 14px;
+	line-height: 24px;
+	color: #000000;
+	font-weight: normal;
+	font-family: Myriad Pro Regular, Arial, sans-serif;
+}
+h1 .title-page {
+	font-size: 30px; 
+	line-height: ;/* в названии одна строка, как в таком случае посчитать*/
+	color: #000000;
+	font-weight: normal;
+	font-family: Arial, sans-serif;
+}
+
+/*h2 .visualli-hidden{
+	font-size: 30px; 
+	line-height: ;
+	color:#000000;
+	font-weight: normal;
+	font-family: Arial, sans-serif;
+}
