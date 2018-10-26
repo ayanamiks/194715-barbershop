@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Геннадий Кужельный](https://up.htmlacademy.ru/htmlcss/18/user/194715).
+* Студент: [Анна Коцуба](https://up.htmlacademy.ru/htmlcss/18/user/194715).
 
 ---
 
